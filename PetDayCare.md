@@ -30,3 +30,8 @@
 - What specific steps are involved in the current employee onboarding process?
 - Which parts of the process take the most time?
 - Do you currently use any onboarding materials or documentation?
+
+### For the Employees:
+- Can you describe your steps when onboarding a new client?
+- What do you find most confusing or inconsistent in the current process?
+- Are any digital tools used to manage onboarding tasks?
