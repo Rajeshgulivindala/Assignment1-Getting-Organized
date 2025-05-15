@@ -16,3 +16,10 @@
 - I want a clear, unified process to onboard new clients so I don’t have to guess or create my own steps.
 - I want training resources or guides so I can feel confident handling new clients from day one.
 - I want tools that reduce the complexity of onboarding and help me focus more on pet care.
+
+### As a Customer:
+- I want the onboarding process to be simple and easy to follow so that I can register my pet without confusion.
+- I want to know what to expect (documents, timelines, pet care policies) when I join the daycare.
+- I want clear communication and faster service during my first experience with the daycare.
+
+---
