@@ -84,3 +84,12 @@ There are no KPIs or structured milestones to track employee onboarding progress
 Ask management how they currently track progress. If there are no formal metrics, the assumption holds true.
 
 ---
+
+## 🔁 4. Follow-Up Clarification Questions
+
+- Are there specific legal or vaccination documents required for each pet during onboarding?
+- Is there an internal system to track onboarding progress (for clients or staff)?
+- How do you train new employees on customer interaction or pet care policies?
+- Are customers given any welcome materials or service guides?
+
+---
