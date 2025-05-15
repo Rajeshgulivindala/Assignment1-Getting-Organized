@@ -42,3 +42,45 @@
 - What questions do new customers usually ask?
 
 ---
+
+## 3. Assumptions & Validation
+
+### Assumption 1:
+Employees currently lack a standard onboarding guide or consistent process.
+
+- **Validation:**  
+Ask the owners or employees to provide any documentation currently used. Compare for inconsistencies or missing structure.
+
+---
+
+### Assumption 2:
+Client onboarding varies from employee to employee, causing inconsistency.
+
+- **Validation:**  
+Interview 3–5 staff members and compare their workflows. Inconsistencies would validate this assumption.
+
+---
+
+### Assumption 3:
+The client onboarding process is manual or paper-based.
+
+- **Validation:**  
+Request a demo or walkthrough of a real client onboarding scenario. Look for paper forms or verbal instructions.
+
+---
+
+### Assumption 4:
+Customers find the onboarding process confusing or unclear.
+
+- **Validation:**  
+Review recent client feedback or send out a quick feedback form to new customers. Identify common pain points.
+
+---
+
+### Assumption 5:
+There are no KPIs or structured milestones to track employee onboarding progress.
+
+- **Validation:**  
+Ask management how they currently track progress. If there are no formal metrics, the assumption holds true.
+
+---
