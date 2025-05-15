@@ -11,3 +11,8 @@
 - I want new employees to be fully onboarded faster (within 2–4 weeks) so that they can contribute sooner.
 - I want the onboarding process to be standardized across all employees to reduce confusion and ensure quality.
 - I want to spend less time managing and explaining the same onboarding details repeatedly.
+
+### As an Employee:
+- I want a clear, unified process to onboard new clients so I don’t have to guess or create my own steps.
+- I want training resources or guides so I can feel confident handling new clients from day one.
+- I want tools that reduce the complexity of onboarding and help me focus more on pet care.
