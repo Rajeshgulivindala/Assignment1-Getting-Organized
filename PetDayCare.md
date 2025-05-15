@@ -93,3 +93,18 @@ Ask management how they currently track progress. If there are no formal metrics
 - Are customers given any welcome materials or service guides?
 
 ---
+
+## 📋 5. Preliminary Tasks (Task Names Only)
+
+1. Analyze Current Employee Onboarding Process  
+2. Document Variations in Client Onboarding Steps  
+3. Develop a Standardized Client Intake Workflow  
+4. Design Employee Training Checklist/Modules  
+5. Create Customer-Friendly Intake Form (Digital/Paper)  
+6. Build Onboarding Portal Mockups (Web/App)  
+7. Collect Customer Feedback via Survey  
+8. Define KPIs for Onboarding Success (Employee + Client)  
+9. Identify Tools for Automating Onboarding  
+10. Prepare Presentation for Client Review
+
+---
