@@ -23,3 +23,10 @@
 - I want clear communication and faster service during my first experience with the daycare.
 
 ---
+
+## 2. Questions to Ask the Client
+
+### For the Owners:
+- What specific steps are involved in the current employee onboarding process?
+- Which parts of the process take the most time?
+- Do you currently use any onboarding materials or documentation?
