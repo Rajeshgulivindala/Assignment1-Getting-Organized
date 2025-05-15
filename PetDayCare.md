@@ -35,3 +35,10 @@
 - Can you describe your steps when onboarding a new client?
 - What do you find most confusing or inconsistent in the current process?
 - Are any digital tools used to manage onboarding tasks?
+
+### For the Customers:
+- What common difficulties or complaints do customers express during onboarding?
+- Do clients fill out any paperwork or forms during onboarding? Is it online?
+- What questions do new customers usually ask?
+
+---
