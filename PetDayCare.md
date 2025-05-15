@@ -108,3 +108,10 @@ Ask management how they currently track progress. If there are no formal metrics
 10. Prepare Presentation for Client Review
 
 ---
+
+## Git
+
+> Git commits will be used in the implementation phase. Suggested commit practices:
+- Use descriptive commit messages (e.g., `feat: added client onboarding workflow draft`)
+- Commit small, focused changes
+- Maintain a clean commit history with clear context for reviewers
